@@ -1,0 +1,4 @@
+npm install
+Actualizar credenciales
+"npm run dev" backend
+"nom run dev" fronted
